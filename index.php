@@ -1,0 +1,742 @@
+<?php include 'header.php'; ?>
+	<body>
+	
+    <?php include 'header_menu.php'; ?>
+       
+        <!-- SLIDER Revo Hero 1 FONT MONTSERRAT -->
+        <div class="relative">
+
+            <div class="rev_slider_wrapper fullscreen-container" id="rev_slider_280_1_wrapper" style="background-color:#fff;padding:0px;">
+                <!-- START REVOLUTION SLIDER 5.1.4 fullscreen mode -->
+                <div class="rev_slider fullscreenbanner" data-version="5.1.4" id="rev_slider_280_1" style="display:none;">
+                    <ul>
+                        <!-- SLIDE -->
+                        <li data-description="" data-easein="Power2.easeInOut" data-easeout="default" data-index="rs-898" data-masterspeed="1500" data-param1="" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-title="Slide" data-transition="fade">
+                          <!-- MAIN IMAGE -->
+                          <img alt="img" class="rev-slidebg" data-bgparallax="12" data-bgposition="center center" data-duration="30000" data-ease="Linear.easeNone" data-no-retina="" src="images/revo-slider/index-fullscreener.jpg">
+                          <!-- LAYERS -->
+
+                          <!-- LAYER NR. 1 -->
+                          <div class="tp-caption   tp-resizeme" 
+                            id="slide-251-layer-1" 
+                            data-x="['right','right','center','center']" data-hoffset="['-254','-453','70','60']" 
+                            data-y="['middle','middle','middle','bottom']" data-voffset="['50','50','211','25']" 
+                                  data-width="none"
+                            data-height="none"
+                            data-whitespace="nowrap"
+                            
+                            data-type="image" 
+                            data-responsive_offset="on" 
+
+                            data-frames='[{"from":"x:right;","speed":1500,"to":"o:1;","delay":2500,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]'
+                            data-textAlign="['left','left','left','left']"
+                            data-paddingtop="[0,0,0,0]"
+                            data-paddingright="[0,0,0,0]"
+                            data-paddingbottom="[0,0,0,0]"
+                            data-paddingleft="[0,0,0,0]" 
+              
+                            
+                            style="z-index: 5;"><img src="images/revo-slider/macbookpro.png" alt="" width="1000" height="600" data-ww="['1000px','1000px','500px','350px']" data-hh="['600px','600px','300px','210px']" data-no-retina> 
+                          </div> 
+                          
+                          <!-- LAYER NR. 2 -->
+                          <div class="tp-caption   tp-resizeme" 
+                            id="slide-251-layer-2" 
+                            data-x="['left','left','center','center']" data-hoffset="['667','865','70','60']" 
+                            data-y="['top','top','top','bottom']" data-voffset="['266','216','580','63']" 
+                                  data-width="none"
+                            data-height="none"
+                            data-whitespace="nowrap"
+                            
+                            data-type="image" 
+                            data-responsive_offset="on" 
+
+                            data-frames='[{"from":"z:0;rX:0deg;rY:0;rZ:0;sX:1.5;sY:1.5;skX:0;skY:0;opacity:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":3350,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]'
+                            data-textAlign="['left','left','left','left']"
+                            data-paddingtop="[0,0,0,0]"
+                            data-paddingright="[0,0,0,0]"
+                            data-paddingbottom="[0,0,0,0]"
+                            data-paddingleft="[0,0,0,0]" 
+                            
+                            style="z-index: 6;"><img src="images/revo-slider/express_macbook_content2.jpg" alt="" width="653" height="408" data-ww="['653px','653px','330px','230px']" data-hh="['408px','408px','206px','144px']" data-no-retina> 
+                          </div>
+              
+                          <!-- LAYER NR. 3 -->
+                          <!-- <div class="tp-caption   tp-resizeme" 
+                            id="slide-251-layer-3" 
+                            data-x="['left','left','center','center']" data-hoffset="['533','633','-110','-60']" 
+                            data-y="['top','top','top','bottom']" data-voffset="['253','203','590','20']" 
+                                  data-width="none"
+                            data-height="none"
+                            data-whitespace="nowrap"
+                            
+                            data-type="image" 
+                            data-responsive_offset="on" 
+
+                            data-frames='[{"from":"x:right;","speed":1500,"to":"o:1;","delay":2750,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]'
+                            data-textAlign="['left','left','left','left']"
+                            data-paddingtop="[0,0,0,0]"
+                            data-paddingright="[0,0,0,0]"
+                            data-paddingbottom="[0,0,0,0]"
+                            data-paddingleft="[0,0,0,0]" 
+                            
+                            style="z-index: 7;"><img src="images/revo-slider/ipad.png" alt="" width="430" height="540" data-ww="['430px','430px','200px','170px']" data-hh="['540px','540px','251px','213px']" data-no-retina> 
+                          </div> -->
+              
+                          <!-- LAYER NR. 4 -->
+                          <!-- <div class="tp-caption   tp-resizeme" 
+                            id="slide-251-layer-4" 
+                            data-x="['left','left','left','center']" data-hoffset="['603','703','212','-60']" 
+                            data-y="['top','top','top','bottom']" data-voffset="['341','291','632','50']" 
+                                  data-width="none"
+                            data-height="none"
+                            data-whitespace="nowrap"
+                            
+                            data-type="image" 
+                            data-responsive_offset="on" 
+
+                            data-frames='[{"from":"z:0;rX:0deg;rY:0;rZ:0;sX:1.5;sY:1.5;skX:0;skY:0;opacity:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":3700,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]'
+                            data-textAlign="['left','left','left','left']"
+                            data-paddingtop="[0,0,0,0]"
+                            data-paddingright="[0,0,0,0]"
+                            data-paddingbottom="[0,0,0,0]"
+                            data-paddingleft="[0,0,0,0]" 
+                            
+                            style="z-index: 8;"><img src="images/revo-slider/express_ipad_content2.jpg" alt="" width="290" height="374" data-ww="['290px','290px','135px','115px']" data-hh="['374px','374px','174px','148px']" data-no-retina> 
+                          </div> -->
+              
+                          <!-- LAYER NR. 5 -->
+                        <!--   <div class="tp-caption tp-resizeme" 
+                            id="slide-251-layer-5" 
+                            data-x="['left','left','left','left']" data-hoffset="['490','553','127','58']" 
+                            data-y="['top','top','top','top']" data-voffset="['348','297','622','529']" 
+                                  data-width="none"
+                            data-height="none"
+                            data-whitespace="nowrap"
+                            
+                            data-type="image" 
+                            data-responsive_offset="on" 
+
+                            data-frames='[{"from":"x:right;","speed":1500,"to":"o:1;","delay":3000,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]'
+                            data-textAlign="['left','left','left','left']"
+                            data-paddingtop="[0,0,0,0]"
+                            data-paddingright="[0,0,0,0]"
+                            data-paddingbottom="[0,0,0,0]"
+                            data-paddingleft="[0,0,0,0]" 
+              
+                            
+                            style="z-index: 9;"><img src="images/revo-slider/ihpone.png" alt="" width="260" height="450" data-ww="['260px','260px','130px','100px']" data-hh="['450px','450px','225px','173px']" data-no-retina> 
+                          </div> -->
+              
+                          <!-- LAYER NR. 6 -->
+                          <!-- <div class="tp-caption   tp-resizeme" 
+                            id="slide-251-layer-6" 
+                            data-x="['left','left','left','left']" data-hoffset="['535','598','150','75']" 
+                            data-y="['top','top','top','top']" data-voffset="['431','379','663','560']" 
+                                  data-width="none"
+                            data-height="none"
+                            data-whitespace="nowrap"
+                            
+                            data-type="image" 
+                            data-responsive_offset="on" 
+
+                            data-frames='[{"from":"z:0;rX:0deg;rY:0;rZ:0;sX:1.5;sY:1.5;skX:0;skY:0;opacity:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":3950,"ease":"Power3.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]'
+                            data-textAlign="['left','left','left','left']"
+                            data-paddingtop="[0,0,0,0]"
+                            data-paddingright="[0,0,0,0]"
+                            data-paddingbottom="[0,0,0,0]"
+                            data-paddingleft="[0,0,0,0]" 
+              
+                            style="z-index: 10;"><img src="images/revo-slider/express_iphone_content2.jpg" alt="" width="170" height="286" data-ww="['171px','170px','85px','66px']" data-hh="['286px','286px','143px','111px']" data-no-retina> 
+                          </div> -->
+              
+                          <!-- LAYER NR. 7 -->
+                          <div class="tp-caption WebProduct-Title   tp-resizeme font-poppins font-white" 
+                            id="slide-251-layer-7" 
+                            data-fontweight="300"
+                            data-x="['left','left','left','left']" data-hoffset="['30','30','200','80']" 
+                            data-y="['middle','middle','top','top']" data-voffset="['-80','-80','137','130']" 
+                                  data-fontsize="['90','90','75','75']"
+                            data-lineheight="['90','90','75','70']"
+                            data-width="none"
+                            data-height="none"
+                            data-whitespace="nowrap"
+                            
+                            data-type="text" 
+                            data-responsive_offset="on" 
+
+                            data-frames='[{"from":"x:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1000,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]'
+                            data-textAlign="['left','left','left','left']"
+                            data-paddingtop="[0,0,0,0]"
+                            data-paddingright="[0,0,0,0]"
+                            data-paddingbottom="[0,0,0,0]"
+                            data-paddingleft="[0,0,0,0]" 
+              
+                            
+                            style="z-index: 11; white-space: nowrap;font-size: 90px;">
+                            Formations <br> Orientation <br> Pour tous <br>
+                          </div>
+              
+                          <!-- LAYER NR. 8 -->
+                          <div class="tp-caption WebProduct-SubTitle   tp-resizeme font-poppins font-white" 
+                            id="slide-251-layer-10" 
+                            data-fontweight="400"
+                            data-x="['left','left','left','left']" data-hoffset="['30','30','200','80']" 
+                            data-y="['middle','middle','top','top']" data-voffset="['44','44','294','277']" 
+                                  data-fontsize="['15','15','15','13']"
+                            data-width="none"
+                            data-height="none"
+                            data-whitespace="nowrap"
+                            
+                            data-type="text" 
+                            data-responsive_offset="on" 
+
+                            data-frames='[{"from":"x:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1250,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]'
+                            data-textAlign="['left','left','left','left']"
+                            data-paddingtop="[0,0,0,0]"
+                            data-paddingright="[0,0,0,0]"
+                            data-paddingbottom="[0,0,0,0]"
+                            data-paddingleft="[0,0,0,0]" 
+              
+                            
+                            style="z-index: 12; white-space: nowrap;letter-spacing:2px;font-weight:500;">
+                          </div>
+              
+                          <!-- LAYER NR. 9 -->
+                          <div class="tp-caption WebProduct-Content tp-resizeme font-poppins font-white" 
+                            id="slide-251-layer-9" 
+                            data-fontweight="300"
+                            data-x="['left','left','left','left']" data-hoffset="['30','30','200','80']" 
+                            data-y="['middle','middle','top','top']" data-voffset="['129','127','345','316']" 
+                                  data-fontsize="['16','16','16','14']"
+                            data-lineheight="['24','24','24','22']"
+                            data-width="['448','356','334','277']"
+                            data-height="['none','none','76','68']"
+                            data-whitespace="normal"
+                            
+                            data-type="text" 
+                            data-responsive_offset="on" 
+
+                            data-frames='[{"from":"x:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1500,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"}]'
+                            data-textAlign="['left','left','left','left']"
+                            data-paddingtop="[0,0,0,0]"
+                            data-paddingright="[0,0,0,0]"
+                            data-paddingbottom="[0,0,0,0]"
+                            data-paddingleft="[0,0,0,0]" 
+              
+                            
+                            style="z-index: 13; min-width: 448px; max-width: 448px; white-space: normal;"> 
+                          </div>
+              
+                          <!-- LAYER NR. 10 -->
+                          <div class="tp-caption" 
+                            id="slide-251-layer-8" 
+                            data-x="['left','left','left','center']" data-hoffset="['30','30','200','0']" 
+                            data-y="['middle','middle','top','top']" data-voffset="['268','268','456','420']" 
+                                  data-width="none"
+                            data-height="none"
+                            data-whitespace="nowrap"
+                            
+                            data-frames='[{"from":"x:-50px;opacity:0;","speed":1000,"to":"o:1;","delay":1750,"ease":"Power2.easeOut"},{"delay":"wait","speed":1500,"to":"opacity:0;","ease":"Power4.easeIn"},{"frame":"hover","speed":"300","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(51, 51, 51, 1.00);bg:rgba(255, 255, 255, 1.00);bw:2px 2px 2px 2px;"}]'
+                            
+                            data-splitin="none" 
+                            data-splitout="none" 
+                            
+                            data-responsive_offset="on" 
+                            data-responsive="off"
+                            
+                            style="z-index: 8; white-space: nowrap;outline:none;">
+                          </div>
+                            
+                            
+                        </li>
+                    </ul>
+                    <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
+                </div>
+            </div>
+            <!-- END REVOLUTION SLIDER -->
+
+          <!-- SCROLL ICON -->
+          <div class="local-scroll-cont font-white">
+            <a href="#about" class="scroll-down smooth-scroll">
+              <div class="icon icon-arrows-down"></div>
+            </a>  
+          </div>
+          
+        </div>
+
+
+        <div>
+          <center>
+            <img src="images/iftech_noir.png">
+          </center>
+          <div class="container" style="font-size: 1.2em;">
+            <p>
+              <b>IF-Tech</b> est un centre de formation en technologie numérique et en entrepreneuriat. <br> Le centre est une école numérique accessible dans les quartiers par Wi-fi sans connexion internet. <br>
+              A travers des partenariats et des formations sur mesure accessibles pour tous, le centre numérique répond à la problématique d'accessibilité de la formation pour un grand nombre et l'accompagnement des jeunes dans l’orientation et la professionnalisation.
+
+          </div>
+        </div>
+
+        <!-- SLOGAN 1 -->
+        <div class="bg-sl1 p-140-cont ">
+          <img src="images/DSC_2030-min.jpg" width="100%">
+        </div>
+
+        <div style="padding-top: 40px;padding-bottom: 40px;">
+          <div class="container" style="font-size: 1.5em;">
+            <center>
+              <p>
+               Notre accompagnement à la formation et la production sont adaptés au millieu urbain comme au millieu rural.
+              </p>
+            </center>
+          </div> 
+        </div>
+
+
+        <!-- FEATURES 12 HALF COLORED -->
+        <div class="page-section">
+          <div class="container-fluid">
+            <div data-equal=".equal-height" class="row row-sm-fix">
+            
+              <div class="col-md-6 fes12-img equal-height" style="background-image: url(images/fes12-1.jpg)">
+                <div class="fes2-main-text-cont text-white">
+                  <div class="fes2-title-45 font-poppins text-white">
+                    <strong>Mission</strong>
+                  </div>
+                  <div class="fes2-text-cont">
+                    <ul>
+                      <li>Formation à la création d’emploi et l’insertion professionnelle</li>
+                      <li>Orientation professionnel</li>
+                      <li>Contribution à l’engagement des jeunes dans l’agribusiness</li>
+                      <li>Formation aux metiers du digital</li>
+                      <li>Assistance des organisations pour des actions éducatives auprès des jeunes dans les quartiers défavorisés.</li>
+                    </ul>
+                  </div>
+                  
+                </div>
+              </div>
+              
+              <div class="col-md-6 fes12-img equal-height" style="background-image: url(images/fes12-2.jpg)">
+                <div class="fes2-main-text-cont text-black">
+                  <div class="fes2-title-45 font-poppins">
+                    <strong>Vision</strong>
+                  </div>
+                  
+                  <div class="fes2-text-cont">Informatisation et dématérialisation de la formation pour un grand nombre de jeunes.</div>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <!-- FEATURES 11 WE ARE CREATIVE FONT MONTSERRAT -->
+        <div id="about" class="page-section">
+          <div class="container-fluid fes1-cont">
+            
+              <div class="col-md-4 fes1-img-cont wow fadeInUp mb-20">
+                <img src="images/photo_2019-11-27_13-03-38.jpg">
+              </div>
+
+              <div class="col-lg-8 col-md-8 mt-fes11" style="margin-top: 0px;">
+                <div class="row">
+
+                  <div class="col-lg-4 col-md-12 col-sm-12">
+                    <div class="fes1-main-title-cont wow fadeInUp">
+                      <div class="fes1-title-50 font-montserrat">
+                        <strong>Académie</strong>
+                      </div>
+                      <div class="line-5-100"></div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-8 col-md-12">
+                        
+                    <p style="font-size: 1.2em;text-align: justify;line-height: 30px;">
+                      Notre  plateforme est accessible dans les quartiers couverts par notre réseau Wi-fi, les  écoles et centres  partenaires à notre réseau. <br>
+                      Aucun forfait data, ni connexion internet n’est requis: <strong>IF-Tech</strong> s’appui sur la technologie de réseau local de diffusion pour rendre accessibles sa plateforme pour tous. <br>
+
+                      <strong>IF-Tech</strong>  doit composer  avec  les réalités locales pour créer des solutions locales d’orientation et de formation  pour tous.
+
+                      <ul>
+                        <li>Orientation scolaire et professionnelle</li>
+                        <li>Formations accessibles pour tous</li>
+                        <li>Assistance et contact physique (Tout n’est pas virtuelle) <br>
+                          <img src="images/DSC_1963_Copie-min.jpg" width="100%">
+                        </li>
+                      </ul>
+                    </p>
+
+                  </div>
+                  
+                </div>
+              </div>
+            
+          </div>
+        </div>
+
+        
+        				
+				<!-- FEATURES 1 -->
+				<div id="about" class="page-section bg-gray" >
+					<div class="container fes1-cont pb-0">
+						<div class="row">
+              
+							<div class="col-md-8">
+              
+                <div class="row">
+                  <div class="col-md-12">
+                    <div class="fes1-main-title-cont wow fadeInDown">
+                      <div class="fes1-title-50 font-poppins" >
+                        <strong>A DISTANCE & PRESENTIEL</strong>
+                      </div>
+                    </div>
+                  </div>
+								</div>
+                    
+                <p style="font-size: 1.2em;text-align: justify;line-height: 40px;">
+                  IF-Tech  s’est engagé à mettre en place des infrastructures et des équipements de qualité pour l’épanouissement des jeunes et de ses formateurs.
+                </p>
+
+                <ul>
+                  <li>Un Studio vidéo de pointe  pour les prises vidéos, des enseignants et formateurs</li>
+                  <li>D’un réseau Wi-fi de diffusion de contenu dans des quartiers et centres partenaires</li>
+                  <li>D’un réseau de partenaires éducatifs qui apportent leur spécialité pour l'épanouissement des jeunes.</li>
+                  <li>D’un centre physique pour les réceptions et activités avec les jeunes.</li>
+                </ul>
+							</div>
+						
+                        
+							<div class="col-md-4 mt-30 fes1-img-cont wow fadeInUp">
+								<img src="images/fes11-2.jpg" alt="img" >
+							</div>
+            
+            </div>
+					</div>
+				</div>
+        <br>
+
+        <div class="container">
+          <img src="images/DSC_2030-min.jpg" width="100%">
+        </div>
+
+
+          <div id="abouter" class="page-section">
+          <div class="container-fluid fes1-cont">
+            
+              <div class="col-md-4 fes1-img-cont wow fadeInUp mb-20">
+                <img src="images/local.jpg" alt="img" >
+              </div>
+
+              <div class="col-lg-8 col-md-8 mt-fes11" style="margin-top: 0px;">
+                <div class="row">
+
+                  <div class="col-lg-4 col-md-12 col-sm-12">
+                    <div class="fes1-main-title-cont wow fadeInUp">
+                      <div class="fes1-title-50 font-montserrat">
+                        <strong>Wi-Fi</strong>
+                      </div>
+                      <div class="line-5-100"></div>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-8 col-md-12">
+                        
+                    <p style="font-size: 1.2em;text-align: justify;line-height: 30px;">
+                      Le Wi-fi est une technologie de transmission de données sans fil que nous exploitons pour diffuser l’école numérique <strong>IF-Tech</strong> sans connexion internet. Pour cela, les jeunes ont juste besoin de se connecter sur notre réseau Wi-fi (baptisé IF-Tech) à l’aide de leur Smartphone, tablette ou laptop. <br>
+
+                      Ce centre numérique  d’un tout autre genre permet de rendre accessible des formation de qualité dans des zones urbaines et des zones rurales où des jeune ne possèdent pas forfait internet.
+
+                    </p>
+
+                  </div>
+                  
+                </div>
+              </div>
+            
+          </div>
+        </div>
+
+
+
+          <!-- CALL TO ACTION FONT RALEWAY -->
+        <div class="page-section bg-g-b-grad">
+          <center>
+            <h1>Exemple de formation</h1>
+            <h2>Myciculture</h2>
+          </center>
+          
+          <div class="container">
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/l60-_OZ73b0" allowfullscreen></iframe>
+            </div>
+          </div>
+        </div>
+
+
+
+      <div class="container" style="font-size: 1.2em;">
+            <p>
+              <br>
+              <br>
+
+              Nous sommes convaincus que la jeunesse africaine a le potentiel de résoudre les problèmes de nutrition et de fracture numérique en l'espace d'une génération. Nous voulons encourager les projets d’entreprise dirigés par de jeunes Africains et promouvoir l'orientation scolaire. 
+            </p>
+      </div>
+
+
+      <div class="page-section pt-50-b-120-cont  bg-gray">
+          <div class="container">
+            <center> <h1>IMPACT</h1></center>
+           
+            <div class="row">
+              
+              <div class="col-xs-12 col-sm-4 col-md-4">
+                <div class="mb-70 wow fadeIn">
+                  <div class="fes17-title-cont" >
+                    <div class="fes17-box-icon">
+                      <div class="icon icon-ecommerce-graph-increase"></div>
+                    </div>
+                    <h3 class="font-montserrat"><strong>EDUCATION</strong></h3>
+                  </div>
+                  <div class="text-center">
+                    Soutenir les jeunes en les orientant et en les donnant des formations professionnelles en adéquation avec leur environnement.  
+                  </div>
+                </div>
+              </div>
+              <div class="col-xs-12 col-sm-4 col-md-4">
+                <div class="mb-70 wow fadeIn" data-wow-delay="200ms">
+                  <div class="fes17-title-cont" >
+                    <div class="fes17-box-icon">
+                      <div class="icon icon-basic-settings"></div>
+                    </div>
+                    <h3 class="font-montserrat"><strong>ENTREPREUNARIAT</strong></h3>
+                  </div>
+                  <div class="text-center">
+                    Contribuer à l'émergence et au développement d'un esprit d'entreprise chez les jeunes africains, souvent laissés sans perspectives professionnelles satisfaisantes.  
+                  </div>
+                </div>
+              </div>
+              <div class="col-xs-12 col-sm-4 col-md-4">
+                <div class="mb-70 wow fadeIn" data-wow-delay="400ms">
+                  <div class="fes17-title-cont" >
+                    <div class="fes17-box-icon">
+                      <div class="icon icon-basic-share"></div>
+                    </div>
+                    <h3 class="font-montserrat"><strong>TIC</strong></h3>
+                  </div>
+                  <div class="text-center">
+                    Grâce aux ressources, à l'ingéniosité technologique et des forts partenariats, nous sommes en mesure de fournir des solutions de formation pour tous, qui ont des impacts positifs directs et indirects à plusieurs niveaux dans la vie sociale d'un jeune.  
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+        <div class="page-section">
+          <div class="container " style="font-size: 1.2em;">
+            <center><h1>Résulat actuel <i>(29/11/2019)</i> </h1>
+                    <div class="count-number">2150</div>
+                    <div class="count-descr">
+                      <span class="count-title">jeunes qui se connectent pour se former depuis maintenant 3 mois de déploiement</span>
+                    </div>
+            </center>
+          </div>
+        </div>
+           
+ 
+        
+        
+		
+
+			
+       
+ 
+        <!-- CLIENTS 2 -->
+        <div class="page-section p-80-cont bg-gray">
+					<div class="container">
+          
+            <div class="row">
+
+              <div class="col-xs-6 col-sm-2 client2-item">
+                <img alt="client" src="images/clients/1.png">
+              </div>
+            
+              <div class="col-xs-6 col-sm-2 client2-item">
+                <img alt="client" src="images/clients/3.png">
+              </div>
+            
+              <div class="col-xs-6 col-sm-2 client2-item">
+                <img alt="client" src="images/clients/5.png">
+              </div>
+            
+              <div class="col-xs-6 col-sm-2 client2-item">
+                <img alt="client" src="images/clients/4.png">
+              </div>
+
+              <div class="col-xs-6 col-sm-2 client2-item">
+                <img alt="client" src="images/clients/6.png">
+              </div>
+            
+              <div class="col-xs-6 col-sm-2 client2-item">
+                <img alt="client" src="images/clients/2.png">
+              </div>
+
+            </div>
+
+          </div>
+				</div>
+
+        
+     
+        <!-- FOOTER 3 FONT MONTSERRAT -->
+        <footer id="footer2" class="page-section pt-95 pb-50">
+          <div class="container">
+            <div class="row">
+            
+              <div class="col-md-3 col-sm-3 widget">
+                <div class="logo-footer-cont">
+                  <a href="index.html">
+                    <img class="logo-footer" src="images/iftech_noir.png" alt="logo">
+                  </a>
+                </div>
+                <div class="footer2-text-cont">
+                  <address>
+                    BP: 1264 Douala-Cameroun<br>
+                  </address>
+                </div>
+                <div class="footer2-text-cont">
+                 <br>
+                  <a class="a-text" href="mailto:contact@iftech.training">contact@iftech.training</a>
+                </div>
+                <div class="footer2-text-cont">
+                  
+                </div>
+              </div>
+            
+            </div>    
+            
+            <!-- SUB FOOTER -->
+            <div class="footer2-copy-cont clearfix">
+              <!-- Social Links -->
+              <div class="footer2-soc-a right">
+                <a href="https://web.facebook.com/IfTechTraining" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+                <a href="https://twitter.com/Iftechtraining" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+              </div>
+              
+              <!-- Copyright -->
+              <div class="left">
+                <a class="footer2-copy" href="#" target="_blank">&copy; IF-Tech</a>
+              </div>
+
+            </div>
+                    
+          </div>
+        </footer>
+        
+				<!-- BACK TO TOP -->
+				<p id="back-top">
+          <a href="#top" title="Back to Top"><span class="icon icon-arrows-up"></span></a>
+        </p>
+        
+			</div><!-- End BG -->	
+		</div><!-- End wrap -->	
+			
+<!-- JS begin -->
+
+		<!-- jQuery  -->
+		<script  src="js/jquery.min.js"></script>
+
+		<!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>		
+
+		<!-- MAGNIFIC POPUP -->
+		<script src="js/jquery.magnific-popup.min.js"></script>
+    
+    <!-- PORTFOLIO SCRIPTS -->
+    <script  src="js/imagesloaded.pkgd.min.js"></script>
+
+    
+    <!-- APPEAR -->    
+    <script  src="js/jquery.appear.js"></script>
+    
+    <!-- OWL CAROUSEL -->    
+    <script  src="js/owl.carousel.min.js"></script>
+    
+    <!-- MAIN SCRIPT -->
+		<script src="js/main.js"></script>
+		
+		<!-- REVOSLIDER SCRIPTS  -->
+    <script src="revo-slider/js/jquery.themepunch.tools.min.js" >
+    </script>
+    <script src="revo-slider/js/jquery.themepunch.revolution.min.js" >
+    </script>
+    
+    <!-- SLIDER REVOLUTION 5.0 EXTENSIONS  
+      (Load Extensions only on Local File Systems ! 
+      The following part can be removed on Server for On Demand Loading) -->
+    <script src="revo-slider/js/extensions/revolution.extension.actions.min.js" ></script>
+    <script src="revo-slider/js/extensions/revolution.extension.carousel.min.js" ></script>
+    <script src="revo-slider/js/extensions/revolution.extension.kenburn.min.js" ></script>
+    <script src="revo-slider/js/extensions/revolution.extension.layeranimation.min.js" >
+    </script>
+    <script src="revo-slider/js/extensions/revolution.extension.migration.min.js" ></script>
+    <script src="revo-slider/js/extensions/revolution.extension.navigation.min.js" ></script>
+    <script src="revo-slider/js/extensions/revolution.extension.parallax.min.js" ></script>
+    <script src="revo-slider/js/extensions/revolution.extension.slideanims.min.js" ></script>
+    <script src="revo-slider/js/extensions/revolution.extension.video.min.js" ></script>
+      
+    <!-- SLIDER REVOLUTION INITIALIZATION  -->
+    <script>
+      jQuery(document).ready(function() {
+          
+        jQuery("#rev_slider_280_1").show().revolution({
+          sliderType: "hero",
+          jsFileLocation: "revo-slider/js/",
+          sliderLayout: "fullscreen",
+          dottedOverlay: "none",
+          delay: 9000,
+          /*navigation: {},*/
+          responsiveLevels: [1240, 1024, 778, 480],
+          visibilityLevels: [1240, 1024, 778, 480],
+          gridwidth: [1240, 1024, 778, 480],
+          gridheight: [868, 768, 960, 720],
+          lazyType: "none",
+          parallax: {
+            type: "off",
+            origo: "slidercenter",
+            speed: 1000,
+            levels: [0],
+            type: "scroll",
+            disable_onmobile: "on"
+          },
+          shadow: 0,
+          spinner: "spinner2",
+          autoHeight: "off",
+          fullScreenAutoWidth: "off",
+          fullScreenAlignForce: "off",
+          fullScreenOffsetContainer: "",
+          fullScreenOffset: "",
+          disableProgressBar: "on",
+          hideThumbsOnMobile: "off",
+          hideSliderAtLimit: 0,
+          hideCaptionAtLimit: 0,
+          hideAllCaptionAtLilmit: 0,
+          debugMode: false,
+          fallbacks: {
+            simplifyAll: "off",
+            disableFocusListener: false,
+          }
+        });
+       
+      }); /*ready*/
+    </script>
+<!-- JS end -->	
+	
+	</body>
+</html>		
